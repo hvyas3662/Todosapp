@@ -60,7 +60,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="finished / total"
+                    android:text="Finished / Total"
                     android:textColor="@color/white"
                     android:textSize="16dp"
                     android:textStyle="italic" />
